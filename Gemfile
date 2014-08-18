@@ -37,7 +37,7 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'masonry-rails', '~> 0.2.1'
 # Use unicorn as the app server
 # gem 'unicorn'
-
+gem 'rails_12factor'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
