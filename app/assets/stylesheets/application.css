@@ -16,6 +16,10 @@
 
 @import 'bootstrap';
 
+.navbar navbar-default {
+	background-color: white;
+	color: white;
+}
 .navbar-brand {
 	margin-top: .7em;
 	font-size: 2em;
@@ -25,6 +29,7 @@
 .navLinks {
 	margin-top: .9em;
 	font-size: 1.6em;
+	color: #190707;
 }
 
 .imageuploader {
@@ -49,6 +54,7 @@ input.checkme {
 	color: white;
 	border: none;
 	width: 120px;
+
 }
 
 .myblue:hover {
@@ -56,7 +62,9 @@ input.checkme {
 	color: black;
 	border: 1px solid #cfcfcf;
 }
-
+.btnbtn-lg {
+	color: black;
+} 
 .marginme {
 	width: 300px;
 	padding-top: 5em;
